@@ -1,0 +1,46 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+a:active {
+  color: #006f9b;
+}
+
+.form-input {
+  padding: 20px;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.card-header-own {
+  font-size: 20px;
+}
+
+.card-title-own {
+  padding-top: 20px;
+}
+
+.header ul {
+  margin-right: 25px;
+}
+
+.header ul li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.result-card {
+  padding: 10px 0 10px 0;
+}
+
+#error-body {
+  padding-top: 50px;
+}
